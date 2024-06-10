@@ -1,0 +1,1563 @@
+header table{
+    width: 100%;
+    background-color: whitesmoke;
+    height: 4em;
+    font-size: 20px;
+    font-family: "Arial Unicode MS";
+    font-weight: bold;
+    background-color:orangered ;
+}
+
+header table a{
+    text-decoration: none;
+    color: black;
+    font-size: 2.3em;
+}
+
+h3 a{
+    color: orangered;
+}
+
+footer table{
+    width: 100%;
+    background-color: #3B5977;
+    height: 5em;
+}
+
+header table td , footer table td{
+    width: 11%;
+}
+
+#contenedor{
+    width: 100%;
+    display: flex;
+}
+
+#menulateral{
+    width: 22%;
+    position: relative;
+    display: block;
+    background-color: whitesmoke;
+}
+
+#menulateral h3{
+    color: orangered;
+    text-align: center;
+    margin: 12%;
+}
+#menulateral div{
+    margin-top: 27%;
+    position: relative;
+    left: 3%;
+    width: 92%;
+}
+
+#calendar{
+
+}
+#principal{
+    position: relative;
+    width: 67%;
+    margin: 2%;
+}
+
+#principalCarrera{
+    position: relative;
+    width: 19%;
+
+}
+.primero{
+    position: relative;
+}
+.primero h2{
+    font-size: 35px;
+}
+
+#indexInscribirse{
+    position: absolute;
+    top: 88%;
+    left: 50%;
+    width: 30%;
+    height: 40px;
+    background-color: orangered;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    border-radius: 10px;
+}
+#imagenCarreraIndex{
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+
+ #eliminar{
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    outline: none;
+}
+header table{
+    width: 100%;
+    background-color: whitesmoke;
+    height: 4em;
+    font-size: 15px;
+    font-family: "Arial Unicode MS";
+    font-weight: bold;
+    background-color:orangered ;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h3 a{
+    color: orangered;
+}
+
+footer table{
+    width: 100%;
+    background-color: #3B5977;
+    height: 5em;
+}
+
+header table td , footer table td{
+    width: 11%;
+}
+
+#contenedor{
+    width: 100%;
+    display: flex;
+}
+
+#menulateral{
+    width: 22%;
+    position: relative;
+    display: block;
+    background-color: whitesmoke;
+}
+
+#menulateral h3{
+    color: orangered;
+    text-align: center;
+    margin: 12%;
+}
+#menulateral div{
+    margin-top: 27%;
+    position: relative;
+    left: 3%;
+    width: 92%;
+}
+
+#calendar{
+
+}
+#principal{
+    position: relative;
+    width: 67%;
+}
+
+#principalCarrera{
+    position: relative;
+    width: 19%;
+
+}
+.primero{
+    position: relative;
+}
+
+#indexInscribirse{
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    width: 30%;
+    height: 40px;
+    background-color: orangered;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    border-radius: 10px;
+}
+
+.segundo{
+    display: flex;
+}
+
+.imagensegundo{
+    width: 50%;
+}
+
+.imagensegundo img{
+    position: relative;
+    top: 16.5%;
+    width: 100%;
+    margin: 5%;
+    border-radius: 1%;
+    height: 73%;
+}
+
+.textosegundo{
+    position: relative;
+    width: 100%;
+    margin: 4%;
+}
+
+#imagenIndex{
+    position: relative;
+    margin-top: 5%;
+    left: 2%;
+    width: 97%;
+}
+
+#noticiaIndex{
+    position: relative;
+    width: 70%;
+    margin-top: 3%;
+
+}
+.tercero{
+    display: flex;
+}
+.contenidoTercero{
+    position: relative;
+    width: 80%;
+    left: 1.5%;
+}
+.contenidoTercero p{
+    font-weight: bolder;
+}
+.contenidoTercero h3{
+    font-size: 2em;
+}
+
+#imagenNoticiaIndex{
+    position: relative;
+    left: 10%;
+    width: 80%;
+}
+.noticias{
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
+}
+.noticias img{
+    width: 90%;
+    padding: 2%;
+    margin: 0 10px;
+}
+
+
+#logo{
+    text-align: right;
+    width: 17%;
+}
+
+#contenedorCarreras{
+    position: relative;
+    left: 11%;
+    width: 89%;
+}
+
+#contenedorCarrera{
+    position: relative;
+    left: 11%;
+    width: 89%;
+}
+
+#contenedorCarrera h1{
+    font-size: 40px;
+
+}
+
+#headerCarrera{
+    display: flex;
+}
+
+#headerCarrera p{
+    position: relative;
+    top: 30%;
+}
+
+#contenedorCarreraIndividual{
+    display: flex;
+}
+
+#imagenIndividual{
+    position: relative;
+    left: 11%;
+}
+
+#imagenIndividual img{
+    height: 600px;
+    margin-top: 1%;
+}
+
+.register{
+    position: relative;
+    right: 10%;
+}
+
+#informacionIndividual{
+    position: relative;
+    left: 15%;
+    width: 42.5%;
+    margin-top: 2%;
+}
+
+#informacionIndividual h2{
+    color: black;
+    position: relative;
+    text-align: left;
+    top: 18%;
+}
+
+.imagenYHora{
+    display: inline;
+    font-size: 20px;
+}
+
+.imagenYHora div{
+    position: relative;
+    left: 5%;
+}
+
+#contenedorMesesCarreras{
+    padding-top: 1%;
+}
+
+.meses{
+    background-color: orangered;
+    border-radius: 20%;
+    margin: 1%;
+    padding: 0.7%;
+    text-align: center;
+}
+
+#separador{
+    background-color: grey;
+    position: relative;
+    width: 90.5%;
+    height: 3px;
+    margin-top: 2%;
+}
+
+#contenedorMostrarCarreras{
+    display: flex;
+}
+
+#tablonDeCarreras{
+    position: relative;
+    width: 55%;
+    left: 11%;
+}
+#lateralCarreras{
+    position: relative;
+    width: 24.5%;
+    left: 12%;
+}
+
+#filtroCarreras{
+    background-color: whitesmoke;
+    margin-top: 3%;
+    height: 200px;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+#filtroCarreras p{
+    margin: 8.5%;
+}
+.mostrarCarrera{
+    background-color: whitesmoke;
+    border-radius: 10%;
+    margin-top: 3%;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: 150px;
+}
+.diaMes{
+    position: relative;
+    width: 10%;
+    text-align: center;
+    left: 5%;
+}
+
+.tituloDistancia{
+    position: relative;
+    margin-top: 2%;
+    width: 40%;
+    left: 3.5%;
+}
+ncia{
+    position: relative;
+    margin: inherit;
+}
+
+/*Registro*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+.formulario {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h2 {
+    color: #f90;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: #f90;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #f60;
+}
+/*Login*/
+.formularioLogin {
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+h2 {
+    color: orangered;
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: orangered;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    left: 25%;
+}
+.contraseñaOlvidada,
+.register {
+    text-align: center;
+    margin-top: 10px;
+}
+.contraseñaOlvidada a,
+.register a {
+    color: orangered;
+    text-decoration: none;
+}
+.contraseñaOlvidada a:hover,
+.register a:hover {
+    text-decoration: underline;
+}
+/*Portal de usuario*/
+.perfil {
+    width: 35%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #f90;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.usuario {
+    margin-bottom: 20px;
+}
+.usuario label {
+    font-weight: bold;
+}
+
+/*Noticia individual*/
+#contenedorNoticia {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.noticia {
+    margin-bottom: 20px;
+}
+.noticia h2 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 1.4;
+}
+.noticia img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.noticia p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.tituloNoticiaNoticias{
+    display: flex;
+}
+
+.imagensegundo{
+    width: 50%;
+}
+
+.imagensegundo img{
+    position: relative;
+    top: 16.5%;
+    width: 100%;
+    margin: 5%;
+    border-radius: 1%;
+    height: 73%;
+}
+
+.textosegundo{
+    position: relative;
+    width: 100%;
+    margin: 4%;
+}
+
+#imagenIndex{
+    position: relative;
+    margin-top: 5%;
+    left: 2%;
+    width: 97%;
+}
+
+#noticiaIndex{
+    position: relative;
+    width: 70%;
+    margin-top: 3%;
+
+}
+.tercero{
+    display: flex;
+}
+.contenidoTercero{
+    position: relative;
+    width: 80%;
+    left: 1.5%;
+}
+.contenidoTercero p{
+    font-weight: bolder;
+}
+.noticias img{
+    width: 350px;
+    height: 300px;
+}
+
+.noticias p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fila{
+    display: flex;
+    margin-bottom: 2%;
+}
+#logo{
+    text-align: right;
+}
+
+#contenedorCarreras{
+    position: relative;
+    left: 11%;
+    width: 89%;
+}
+
+#contenedorCarrera{
+    position: relative;
+    left: 11%;
+    width: 89%;
+}
+
+#contenedorCarrera h1{
+    font-size: 40px;
+
+}
+
+#headerCarrera{
+    display: flex;
+}
+
+#headerCarrera p{
+    position: relative;
+    top: 30%;
+}
+
+#contenedorCarreraIndividual{
+    display: flex;
+}
+
+#imagenIndividual{
+    position: relative;
+    left: 11%;
+}
+
+#imagenIndividual img{
+    height: 600px;
+    margin-top: 1%;
+}
+
+#informacionIndividual{
+    position: relative;
+    left: 15%;
+    width: 42.5%;
+    margin-top: 2%;
+}
+
+#informacionIndividual h2{
+    color: black;
+    position: relative;
+    text-align: left;
+}
+
+.imagenYHora{
+    display: flex;
+}
+
+.imagenYHora div{
+    position: relative;
+    left: 5%;
+}
+
+#contenedorMesesCarreras{
+    padding-top: 1%;
+}
+
+.meses{
+    background-color: orangered;
+    border-radius: 20%;
+    margin: 1%;
+    padding: 0.7%;
+    text-align: center;
+}
+
+#separador{
+    background-color: grey;
+    position: relative;
+    width: 90.5%;
+    height: 3px;
+    margin-top: 2%;
+}
+
+#contenedorMostrarCarreras{
+    display: flex;
+}
+
+#tablonDeCarreras{
+    position: relative;
+    width: 80.5%;
+    left: 11%;
+}
+#lateralCarreras{
+    position: relative;
+    width: 24.5%;
+    left: 12%;
+}
+
+#filtroCarreras{
+    background-color: whitesmoke;
+    margin-top: 3%;
+    height: 200px;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+#filtroCarreras p{
+    margin: 8.5%;
+}
+.mostrarCarrera{
+    background-color: whitesmoke;
+    border-radius: 10%;
+    margin-top: 3%;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.diaMes{
+    position: relative;
+    width: 10%;
+    text-align: center;
+    left: 3.5%;
+
+}
+.diaMes img{
+    width: 84%;
+    border-radius: 20%;
+    padding: 3%;
+}
+.tituloDistancia{
+    position: relative;
+    left: 10%;
+    margin-top: 2%;
+    width: 70%;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.precioCarrera{
+    position: relative;
+    font-size: 20px;
+    font-weight: bolder;
+    top: 6%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.distancia{
+    position: relative;
+    margin: inherit;
+}
+.formularioCarrera {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#actualizarCarrera{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.formularioNoticia {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#actualizarNoticia{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+/*Registro*/
+.formularioRegistro{
+    position: relative;
+    left: 10%;
+    width: 80%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+.formulario {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h2 {
+    color: #f90;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: #f90;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #f60;
+}
+/*Login*/
+.formularioLogin ,
+.cambioContrasena{
+    width: 25%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 5%;
+
+}
+h2 {
+    color: orangered;
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background-color: orangered;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    left: 25%;
+}
+
+
+
+.contraseñaOlvidada,
+.register {
+    text-align: center;
+    margin-top: 10px;
+}
+.contraseñaOlvidada a,
+.register a {
+    color: orangered;
+    text-decoration: none;
+}
+.contraseñaOlvidada a:hover,
+.register a:hover {
+    text-decoration: underline;
+}
+/*Portal de usuario*/
+.perfil {
+    width: 35%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #f90;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.usuario {
+    margin-bottom: 20px;
+}
+.usuario label {
+    font-weight: bold;
+}
+
+/*Noticia individual*/
+#contenedorNoticia {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.noticia {
+    margin-bottom: 20px;
+}
+.noticia h2 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 1.4;
+}
+.noticia img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.noticia p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/*FILTROS*/
+#contenedorFiltros {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 87.5%;
+    display: flex;
+}
+#contenedorFiltros form{
+    display: flex;
+}
+.filtro {
+    margin-bottom: 15px;
+    width: 60%;
+}
+#contenedorFiltros span{
+    margin: 20px;
+}
+
+.filtro label {
+    font-weight: bold;
+    color: orangered;
+}
+
+.filtro input[type="number"],
+.filtro input[type="text"],
+.filtro select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button[type="submit"] {
+    background-color: orangered;
+
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    height: 44px;
+    position: relative;
+    top: 36%;
+    left: 15%;
+    margin-left: 10px;
+}
+
+button[type="submit"]:hover {
+    background-color: darkorange;
+}
+
+#btnEliminarFiltro{
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    height: 44px;
+    position: relative;
+    top: 36%;
+    left: 15%;
+    margin-left: 10px;
+}
+
+#btnEliminarFiltro:hover{
+    background-color: darkorange;
+}
+
+/*COMENTARIOS*/
+/* Estilos para la zona de comentarios */
+#contenedorComentarios {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 80.5%;
+    left: 9.5%;
+    position: relative;
+}
+
+#contenedorComentarios h2 {
+    color: orangered;
+    margin-bottom: 15px;
+}
+
+#contenedorComentarios select{
+    position: relative;
+    left: 5%;
+    margin: 20px;
+    top: -22%;
+}
+
+.comentario {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.comentario p {
+    margin: 0;
+}
+
+.comentario p:nth-child(2) {
+    font-weight: bold;
+    color: orangered;
+}
+
+.comentario a {
+    color: orangered;
+    text-decoration: none;
+}
+
+.comentario a:hover {
+    text-decoration: underline;
+}
+
+form[action="{{ route('guardarComentario') }}"] {
+    margin-top: 20px;
+}
+
+form[action="{{ route('guardarComentario') }}"] textarea,
+form[action="{{ route('guardarComentario') }}"] select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+form[action="{{ route('guardarComentario') }}"] button[type="submit"] {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form[action="{{ route('guardarComentario') }}"] button[type="submit"]:hover {
+    background-color: darkorange;
+}
+#listarCarrerasTabla td {
+    width: 10%;
+    text-align: center;
+    height: 80px;
+    font-size: 1.1em;
+}
+#imagenListarCarreras{
+    width: 80%;
+}
+
+#listarUsuariosTabla td{
+    width: 10%;
+    text-align: center;
+    height: 80px;
+    font-size: 1.1em;
+}
+#listarUsuariosTabla img{
+    width: 12%;
+}
+
+#listarNoticiasTabla td{
+    width: 10%;
+    text-align: center;
+    height: 80px;
+    font-size: 1.1em;
+}
+
+#listarNoticiasTabla img{
+    width: 12%;
+}
+.boton {
+    background-color: orange;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    margin-bottom: 2%;
+    margin-right: 5%;
+}
+
+.boton:hover {
+    background-color: orangered;
+    border-color: orangered;
+}
+
+.boton a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.boton:hover a {
+    color: white;
+}
+#contenedorInscripcion {
+    width: 60%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#contenedorInscripcion  h1 {
+    color: orangered;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#contenedorInscripcion  input[type="text"],
+#contenedorInscripcion  input[type="email"],
+#contenedorInscripcion  input[type="date"],
+#contenedorInscripcion  input[type="password"],
+#contenedorInscripcion select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#logout{
+    width: 30%;
+}
+#usuarioPerfil{
+    width: 15%;
+}
+#imagenNoticia{
+    width: 800px;
+    height: 500px;
+}
+#imagenCarrera{
+    width: 100px;
+    height: 100px;
+}
+#imagenListarCarreras{
+    /*width: 300px;
+    height: 250px;*/
+}
+
+/*RESPONSIVE MOVILES*/
+@media screen and (max-width:390px) {
+    #contenedorCarreraIndividual {
+        display: block;
+    }
+    #menulateral{
+        display: none;
+    }
+    #principal {
+        width: 100%;
+    }
+    .primero h2 {
+        font-size: 25px;
+    }
+    #imagenCarreraIndex {
+        width: 100%;
+        position: relative;
+        left: 0%;
+    }
+    #indexInscribirse {
+        display: none;
+    }
+    .segundo {
+        display: block;
+    }
+    .imagensegundo img {
+        width: 90%;
+    }
+    .textosegundo p,
+    .textosegundo ol{
+        font-size: 20px;
+    }
+    .textosegundo h3{
+        font-size: 25px;
+    }
+    .contenidoTercero {
+        width: 100%;
+    }
+    .contenidoTercero h3 {
+        font-size: 2.5em;
+        text-align: center;
+    }
+    .contenidoTercero p {
+        font-size: 20px;
+    }
+
+    #principal h1{
+        text-align: center;
+    }
+    .fila {
+         display: block;
+     }
+    .noticias{
+        padding-bottom: 8%;
+    }
+    .noticias h2{
+        font-size: 30px;
+    }
+    .noticias img {
+        width: 90%;
+    }
+    .noticias p{
+        font-size: 20px;
+    }
+    #contenedorNoticia {
+        width: 100%;
+    }
+    #imagenNoticia{
+        width: 100%;
+    }
+    .noticia h2{
+        font-size: 30px;
+    }
+    .noticia p{
+        font-size: 20px;
+    }
+    #contenedorCarreras {
+        position: relative;
+        left: 5%;
+        width: 90%;
+    }
+    #contenedorFiltros form {
+        display: block;
+        margin-right: 5%;
+    }
+    button[type="submit"] {
+        position: relative;
+        left: 0%;
+        top: 0%;
+    }
+    #btnEliminarFiltro{
+        position: relative;
+        left: 0%;
+        top: 0%;
+    }
+#separador {
+width: 100%;
+}
+    #tablonDeCarreras{
+        left: 5%;
+        width: 90%;
+        position: relative;
+    }
+
+    .precioCarrera{
+        display: none;
+    }
+    .tituloDistancia{
+       top:  12%;
+    }
+    .diaMes {
+        position: relative;
+        left: 1%;
+        top: 18%;
+    }
+    #imagenCarrera{
+        width: 80px;
+        height: 75px;
+    }
+.formularioLogin{
+        width: 90%;
+        left: 2%;
+        position: relative;
+}
+    .formularioLogin h2{
+        font-size: 30px;
+    }
+}
+@media screen and (min-width:390px) and (max-width:800px) {
+
+    #calendar{
+        display: none;
+    }
+    #menulateral{
+        width: 35%;
+    }
+    #imagenCarreraIndex{
+        width: 99%;
+        left: 1%;
+    }
+    #indexInscribirse{
+        width: 20%;
+        height: 30px;
+    }
+    .segundo{
+        display: block;
+        width: 90%;
+    }
+    .textosegundo p,
+    .textosegundo ol{
+        font-size: 18px;
+    }
+    .contenidoTercero h3{
+        text-align: center;
+        font-size: 30px;
+    }
+    .contenidoTercero p {
+        font-size: 18px;
+    }
+    .noticia h2{
+        font-size: 30px;
+    }
+    #imagenNoticia {
+        width: 95%;
+        left: 3%;
+        position: relative;
+    }
+
+    .noticia p{
+        font-size: 20px;
+    }
+    .fila{
+        display: block;
+        margin-bottom: 2%;
+    }
+    .noticias p{
+        font-size: 20px;
+    }
+    .noticias h2{
+        font-size: 30px;
+}
+    button[type="submit"] {
+    position: relative;
+        left: 1%;
+    }
+    .formularioLogin{
+        width: 60%;
+    }
+    #contenedorFiltros form {
+        display: block;
+        margin-right: 5%;
+    }
+    button[type="submit"] {
+        position: relative;
+        left: 0%;
+        top: 0%;
+    }
+    #btnEliminarFiltro{
+        position: relative;
+        left: 0%;
+        top: 0%;
+    }
+    #separador{
+        width: 93%;
+    }
+    .tituloDistancia {
+        width: 63%;
+        top: 6%;
+    }
+    .precioCarrera{
+        position: relative;
+        left: -20%;
+        top: 0%;
+    }
+    .diaMes {
+        position: relative;
+        left: -18%;
+        top: 7%;
+    }
+    #imagenCarrera {
+        width: 80px;
+        height: 80px;
+    }
+    #principalCarrera span p{
+        position: relative;
+        left: 30%;
+    }
+    #fechaCarrera{
+        position: relative;
+        left: 29%;
+    }
+    #imagenIndividual img{
+        width: 300px;
+        height: 300px;
+        position: relative;
+        top: 20%;
+    }
+    #imagenListarCarreras{
+      width: 20%;
+    }
+
+
+}
+
+@media screen and (min-width:800px) and (max-width:1148px) {
+    #logout {
+        width: 60%;
+    }
+    #usuarioPerfil {
+        width: 30%;
+        margin-left: 25%;
+    }
+    #menulateral {
+        width: 29%;
+    }
+    #imagenCarreraIndex {
+        width: 100%;
+        position: relative;
+        left: 0%;
+    }
+    .segundo {
+        display: block;
+    }
+    .imagensegundo img{
+        width: 72%;
+        left: 10%;
+    }
+    .textosegundo{
+        left: 10%;
+    }
+
+    .textosegundo p{
+      font-size: 20px;
+    }
+    .contenidoTercero {
+        position: relative;
+        width: 100%;
+        left: 3.5%;
+    }
+    .contenidoTercero h3 {
+        font-size: 2.5em;
+        text-align: center;
+    }
+    .contenidoTercero p {
+        font-size: 20px;
+    }
+    .noticia h2{
+        font-size: 40px;
+    }
+    #imagenNoticia {
+        width: 750px;
+        height: 500px;
+        left: 1%;
+        position: relative;
+    }
+    .noticia p {
+        font-size: 18px;
+
+    }
+
+
+
+    #menulateralNoticias{
+        display: none;
+    }
+    .fila {
+        display: block;
+        margin-bottom: 2%;
+    }
+    .noticias img {
+        width: 450px;
+        height: 300px;
+        position: relative;
+        left: 4%;
+    }
+    .noticias h2{
+        font-size: 40px;
+    }
+    .noticias p {
+        font-size: 18px;
+    }
+    .noticias{
+        margin-bottom: 15%;
+        padding-bottom: 2%;
+    }
+    button[type="submit"] {
+        width: 20%;
+        position: relative;
+        left: 1%;
+    }
+    #btnEliminarFiltro{
+        left: 2%;
+    }
+    .tituloDistancia{
+        width: 44%;
+    }
+    .precioCarrera{
+        width: 35%;
+        top: 13%;
+    }
+    .diaMes{
+        top: 3%;
+    }
+    #fechaCarrera{
+        position: relative;
+        left: 28%;
+    }
+    #imagenIndividual img{
+        width: 285px;
+        height: 240px;
+        top: 7%;
+        position: relative;
+    }
+    #informacionIndividual p{
+        font-size: 20px;
+    }
+    .formularioLogin{
+        width: 40%;
+    }
+
+}
+
+
+
+
+
+
